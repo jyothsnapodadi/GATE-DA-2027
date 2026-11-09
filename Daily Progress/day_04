@@ -1,0 +1,69 @@
+# GATE DA 2027 – Day 4
+
+## Topics Completed
+
+### 1. Probability and Statistics
+- Uniform Distribution
+- Exponential Distribution
+- Normal Distribution
+- Standard Normal Distribution (Z-score)
+
+### 2. DBMS Fundamentals
+- Introduction to DBMS
+- File System vs DBMS
+- Database Architecture
+- Data Models
+- Relational Model: Tables, Tuples and Attributes
+
+### 3. DBMS Relational Concepts
+- Super Key
+- Candidate Key
+- Primary Key
+- Foreign Key
+- Integrity Constraints
+- NULL Values
+- Basic Relational Algebra
+
+### 4. Data Warehousing
+- Data Warehouse Fundamentals
+- OLTP vs OLAP
+- Data Warehouse Architecture
+- Fact Tables and Dimension Tables
+- Star Schema and Snowflake Schema
+
+## Practice Statistics
+
+| Metric | Result |
+|---|---:|
+| MCQs Attempted | 185 |
+| Correct | 100 |
+| Incorrect | 85 |
+| MCQ Accuracy | 54.05% |
+| MSQ Score | 42/50 (84%) |
+
+## Coding Practice
+
+- Platform: LeetCode
+- Problem: Combine Two Tables
+- Language: SQL
+- Concept Practised: LEFT JOIN
+- Problems Solved: 1
+
+## Doubts and Improvement Areas
+
+No major conceptual doubts reported.
+
+Areas to improve:
+- Revise previously studied topics daily.
+- Improve MCQ accuracy.
+- Strengthen retention of formulas and concepts.
+- Practise more numerical and application-based questions.
+
+## Next Day Goals
+- Revise previous topics.
+- Practise mixed MCQs and MSQs.
+- Analyse incorrect answers.
+- Continue SQL practice.
+- Improve accuracy and consistency.
+
+**Status: Day 4 Completed**
