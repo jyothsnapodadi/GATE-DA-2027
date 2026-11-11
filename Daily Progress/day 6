@@ -1,0 +1,62 @@
+# GATE DA 2027 – Day 6
+
+## 1. Probability & Statistics
+- Revised concepts related to previously incorrect answers.
+- Reattempted and solved the questions.
+
+## 2. DBMS
+Topics revised:
+- Functional Dependencies
+- Normalization
+
+### Practice Results
+
+| Question Type | Correct / Attempted |
+|---|---:|
+| MCQ | 49/54 |
+| MSQ | 19/29 |
+| NAT | 10/11 |
+| **Total** | **78/94** |
+
+Accuracy: **82.98%**
+
+## 3. Data Warehousing
+Topics revised:
+- Data Warehouse
+- OLTP vs OLAP
+- ETL
+- Types of OLAP
+- Data Warehouse Applications
+
+### Practice Results
+
+| Question Type | Correct / Attempted |
+|---|---:|
+| MCQ | 68/71 |
+| MSQ | 37/43 |
+| NAT | 21/26 |
+| **Total** | **126/140** |
+
+Accuracy: **90.00%**
+
+## 4. SQL Practice
+- Solved one easy LeetCode SQL problem.
+- Submission status: Accepted.
+- Test cases passed: 14/14.
+
+## 5. Combined Performance
+
+| Metric | Result |
+|---|---:|
+| Total attempted | 234 |
+| Correct | 204 |
+| Incorrect | 30 |
+| Accuracy | 87.18% |
+
+## 6. Areas to Improve
+- DBMS MSQ practice
+- Data Warehousing NAT practice
+- Continue revising previously incorrect Probability & Statistics questions
+
+## Day 6 Reflection
+Focused on revision, accuracy and SQL problem-solving. Data Warehousing was the strongest subject today, while DBMS MSQs need additional practice.
