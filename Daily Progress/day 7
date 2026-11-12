@@ -1,0 +1,68 @@
+# GATE DA 2027 – Daily Progress
+
+**Date:** November 12, 2026
+
+## 1. Full-Length Mock Test
+
+Completed a 100-question mixed GATE DA mock test covering Probability & Statistics, DBMS, and Data Warehousing.
+
+| Metric | Result |
+|---|---:|
+| Total questions | 100 |
+| Score | 76.67/100 |
+| Fully correct | 79 |
+| Incorrect | 15 |
+| Unattempted | 6 |
+
+### Subject-wise accuracy
+
+| Subject | Accuracy |
+|---|---:|
+| Probability & Statistics | 80.56% |
+| DBMS | 76.47% |
+| Data Warehousing | 80% |
+
+### Areas to improve
+- **P&S:** Bayes' theorem, Poisson distribution, CDF continuity, CLT and exponential distribution.
+- **DBMS:** Attribute closure, ACID properties, indexing, dirty reads and normalization.
+- **Data Warehousing:** OLAP architectures, schemas and sampling.
+
+## 2. LeetCode – SQL
+
+**Problem:** Duplicate Emails
+
+**Concepts practiced:**
+- `GROUP BY`
+- `HAVING`
+- Aggregate function `COUNT()`
+- Identifying duplicate column values
+
+### SQL Solution
+
+```sql
+SELECT email AS Email
+FROM Person
+GROUP BY email
+HAVING COUNT(id) > 1;
+```
+
+**Submission Result:**
+- Status: Accepted
+- Test cases passed: 15/15
+- Runtime: 329 ms
+- Beats: 99.31%
+
+## 3. Key Takeaways
+
+- Completed a full-length mixed mock test.
+- Identified weak concepts for targeted revision.
+- Practiced SQL aggregation and duplicate detection.
+- Continued building consistency in GATE DA preparation.
+
+## 4. Next Steps
+
+- Revise incorrect mock questions.
+- Practice weak concepts in P&S, DBMS and Data Warehousing.
+- Continue daily SQL problem-solving.
+
+**Goal: GATE DA 2027 – AIR under 50.**
