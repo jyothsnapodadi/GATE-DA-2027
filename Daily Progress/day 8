@@ -1,0 +1,90 @@
+# GATE DA 2027 – Day 8 Progress
+
+**Date:** November 13, 2026
+
+## 📚 Study Progress
+
+### Session 1 – Linear Algebra
+Topics covered:
+- Matrix operations
+- Determinants
+- Matrix inverse
+- Minors, cofactors and adjoint
+- Rank introduction
+
+**Practice:** 19/20 – 95%
+
+### Session 2 – DBMS
+Topics covered:
+- Database transactions and transaction states
+- Serial and non-serial schedules
+- Conflict serializability
+- Recoverable, cascadeless and strict schedules
+- Locks and Two-Phase Locking (2PL)
+
+**Pending:** Deadlocks – moved to Day 9.
+
+### Session 3 – Data Warehousing
+Topics covered:
+- Star schema, Snowflake schema and Fact Constellation
+- Transaction, periodic snapshot and accumulating snapshot fact tables
+- Additive, semi-additive and non-additive measures
+- Conformed, role-playing, degenerate, junk and outrigger dimensions
+- SCD Types 0, 1, 2 and 3
+
+**Practice:** 36/40 – 90%
+
+### Session 4 – Probability & Statistics
+Topics covered:
+- Bernoulli, Binomial, Poisson and Geometric distributions
+- Uniform and Normal distributions
+- Bayes' theorem
+- Central Limit Theorem (CLT)
+- Standard error and sampling distribution
+- CLT probability calculations
+
+**Final Practice Test:** 38/39 – 97.44%
+
+## 💻 LeetCode SQL Practice
+
+**Problem:** Customers Who Never Order
+
+**SQL concepts:**
+- LEFT JOIN
+- Filtering unmatched records using IS NULL
+
+**MySQL solution:**
+
+```sql
+SELECT name AS Customers
+FROM Customers AS c
+LEFT JOIN Orders AS o
+    ON c.id = o.customerId
+WHERE o.customerId IS NULL;
+```
+
+**Result:**
+- Status: Accepted
+- Test cases passed: 12/12
+- Runtime: 497 ms
+- Beats: 97.90%
+
+## 📊 Day 8 Summary
+
+| Activity | Result |
+|---|---|
+| Study sessions completed | 4/4 |
+| Linear Algebra test | 19/20 |
+| DBMS topics | Completed planned topics |
+| Data Warehousing test | 36/40 |
+| P&S final test | 38/39 |
+| LeetCode SQL problems | 1 accepted |
+
+## 🎯 Day 9 Focus
+- Linear Algebra: Continue rank and related concepts.
+- DBMS: Deadlocks – concepts, detection, prevention and recovery.
+- Continue revision and GATE-level practice.
+
+**Today's takeaway:** Consistent practice, reviewing mistakes and applying concepts through problem-solving are helping me build a stronger foundation for GATE DA 2027.
+
+#GATEDA2027 #DBMS #LinearAlgebra #DataWarehousing #ProbabilityStatistics #SQL #LeetCode
