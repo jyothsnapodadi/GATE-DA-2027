@@ -1,0 +1,91 @@
+# GATE DA 2027 – Day 9
+
+**Date:** November 14, 2026
+
+## 📚 Session 1 – Linear Algebra
+
+Topics covered:
+- Systems of Linear Equations
+- Gaussian Elimination
+- Eigenvalues and Eigenvectors
+- Rank and Nullity
+- LU Decomposition
+
+Practice:
+- Completed topic-wise tests.
+- Attempted a 30-question mixed GATE-level mock test.
+
+Pending:
+- Singular Value Decomposition (SVD)
+- Vectors, subspaces and projections
+
+## 💻 Session 2 – DBMS
+
+Topics covered:
+- ER Model
+- Relational Algebra
+- Tuple Relational Calculus
+- SQL fundamentals
+- Aggregate Functions
+- GROUP BY and HAVING
+
+Practice:
+- Completed topic-wise MCQ and MSQ tests.
+- Practiced SQL concepts and query evaluation.
+
+Pending:
+- NULL values and three-valued logic
+- Nested and correlated subqueries
+- EXISTS, ANY and ALL
+
+## 📊 Session 3 – Data Warehousing
+
+Topic covered:
+- Concept Hierarchies
+
+Completed:
+- Comprehensive 30-question GATE DA mock test.
+
+**Mock Test Result: 29.33/30 (97.78%)**
+
+## 🏆 LeetCode SQL Practice
+
+**Problem:** Delete Duplicate Emails
+
+- Language: MySQL
+- Status: Accepted
+- Test cases: 22/22 passed
+- Runtime: 779 ms
+- Beats: 85.49%
+
+### SQL Solution
+
+```sql
+DELETE p1
+FROM Person p1
+JOIN Person p2
+ON p1.email = p2.email
+AND p1.id > p2.id;
+```
+
+**Concept learned:** Self JOIN and DELETE with JOIN to remove duplicate records while retaining the row with the smallest ID.
+
+## 📈 Daily Summary
+
+| Subject | Status |
+|---|---|
+| Linear Algebra | Continued |
+| DBMS | Continued |
+| Data Warehousing | Mock completed |
+| LeetCode SQL | 1 problem solved |
+
+## 🎯 Day 10 Targets
+
+- SVD, vectors, subspaces and projections
+- Linear Algebra remedial practice
+- Remaining DBMS SQL topics
+- Data Warehousing revision test
+
+**Today's takeaway:** Consistent practice, conceptual clarity, and regular testing are helping me strengthen my GATE DA preparation.
+
+#GATEDA2027 #DBMS #SQL #DataWarehousing #LinearAlgebra #LeetCode
