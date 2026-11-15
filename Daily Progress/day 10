@@ -1,0 +1,67 @@
+# GATE DA 2027 – Day 10
+
+**Date:** 15 November 2026  
+**Preparation Goal:** AIR Under 50
+
+## Session 1: Linear Algebra
+
+### Topics Covered
+- Singular Value Decomposition (SVD)
+- Vector Spaces and Subspaces
+- Linear Independence and Dependence
+- Basis and Dimension
+- Orthogonality and Projections
+
+### Practice
+- Completed topic-wise practice.
+- Attempted a comprehensive 30-question GATE-level mock test.
+- Reviewed mistakes involving projections, dimensions and SVD.
+
+## Session 2: Database Management Systems (DBMS)
+
+### Topics Covered
+1. Aggregate Functions
+2. GROUP BY and HAVING
+3. SQL Joins
+4. Nested Queries and Subqueries
+5. SQL Set Operations
+6. NULL Handling and Three-Valued Logic
+
+### Important SQL Concepts Practised
+- COUNT(*), COUNT(column), COUNT(DISTINCT)
+- WHERE vs HAVING
+- INNER, LEFT, RIGHT, FULL OUTER, SELF and CROSS JOIN
+- IN, ANY, ALL and EXISTS
+- UNION, UNION ALL, INTERSECT and EXCEPT
+- IS NULL, IS NOT NULL, COALESCE and NULLIF
+- SQL three-valued logic
+
+## Practice Performance
+
+| Assessment | Score |
+|---|---:|
+| DBMS topic-wise tests | 39/44 |
+| DBMS comprehensive mock | 23/29 valid questions |
+
+**Question formats practised:** MCQ, MSQ and NAT.
+
+## Areas to Improve
+- ANY vs ALL operators
+- EXISTS vs IN
+- JOIN row-count calculations
+- Vector and scalar projections
+- Residual vector calculations
+
+## Today's Key Learning
+
+Conceptual understanding must be combined with accurate problem-solving. Mixed-topic tests help identify gaps that individual topic tests may not reveal.
+
+## Next Study Priorities
+- Revise weak Linear Algebra concepts.
+- Study Idempotent Matrices.
+- Study Partitioned/Block Matrices and their properties.
+- Revise SQL subquery operators and JOIN concepts.
+
+---
+
+**Day 10 completed.**
