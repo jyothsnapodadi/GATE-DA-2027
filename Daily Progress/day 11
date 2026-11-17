@@ -1,0 +1,64 @@
+# Day 11 – GATE DA 2027 Preparation
+
+## Subject: Database Management Systems (DBMS)
+
+### Topics Completed
+- Functional Dependencies
+- First Normal Form (1NF)
+- Second Normal Form (2NF)
+- Third Normal Form (3NF)
+- Boyce-Codd Normal Form (BCNF)
+- BCNF Decomposition
+- Lossless Join
+- Dependency Preservation
+
+### Practice Test Results
+
+| Test | Score |
+|---|---:|
+| 3NF Level 1 | 11/12 |
+| BCNF Level 1 | 9/12 |
+| BCNF Level 2 | 10/12 |
+| BCNF Remedial | 8/8 |
+| BCNF Level 3 | 13/14 |
+
+### Key Concepts Learned
+
+1. Functional dependency and attribute closure.
+2. Candidate keys and superkeys.
+3. Prime and non-prime attributes.
+4. Difference between 3NF and BCNF.
+5. BCNF violation identification.
+6. BCNF decomposition procedure.
+7. Lossless join decomposition.
+8. Dependency preservation.
+
+### Important Formulas
+
+**Attribute Closure:**
+
+For an attribute set X, X+ represents all attributes functionally determined by X.
+
+**BCNF Condition:**
+
+For every non-trivial FD X → Y, X must be a superkey.
+
+**BCNF Decomposition:**
+
+For a violating FD X → Y:
+
+- R1 = X ∪ Y
+- R2 = R − (Y − X)
+
+### Today's Learning Outcome
+
+Improved my understanding of normalization and became more confident in solving advanced BCNF problems involving candidate keys, attribute closures and decomposition.
+
+### Next Steps
+- Revise mistakes from normalization tests.
+- Continue with the next DBMS syllabus topic.
+- Practice mixed GATE DA questions.
+
+
+
+Consistency over perfection. One day at a time! 🚀
