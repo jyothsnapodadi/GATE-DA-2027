@@ -1,0 +1,60 @@
+# Day 12 – Python Practical Coding
+
+## Overview
+Focused on practical Python programming, conditional logic, loops, and problem-solving.
+
+## Topics Covered
+
+### Session 1 – Python Fundamentals
+- Input and output
+- Arithmetic operators
+- Variable swapping
+- Type conversion
+- Digit extraction
+- Number reversal
+- Sum of digits
+- Average calculation
+- Simple interest
+
+### Session 2 – Conditional Statements
+- Positive, negative, and zero
+- Even or odd
+- Largest of three numbers
+- Leap year checker
+- Grade calculator
+- Electricity bill calculation
+- ATM withdrawal simulation
+- Triangle classification
+- Login validation
+- Nested conditional logic
+
+### Session 3 – Loops
+- Printing numbers from 1 to N
+- Sum of natural numbers
+- Multiplication tables
+- Factorial
+- Digit counting
+- Number reversal
+- Prime number checking
+- Prime numbers in a range
+- Fibonacci series
+- Armstrong number
+- Pattern printing
+- Nested-loop execution tracing
+
+## Key Learnings
+- Practiced `for` and `while` loops.
+- Improved conditional logic.
+- Worked with nested loops and accumulators.
+- Identified edge cases and input-validation issues.
+- Practiced GATE-style Python output prediction.
+
+## Pending Work
+- Complete 5 remedial loop problems.
+- Continue with Strings and Lists.
+- Complete the remaining Python practical sessions.
+
+## Progress
+Day 12 Python practical preparation is in progress.
+
+**Next:** Day 13 – Continue pending Python practice and project work.
