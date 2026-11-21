@@ -1,0 +1,110 @@
+# GATE DA 2027 – Day 15 Progress Report
+
+## Day 14 – Mathematics: Differentiability
+
+### Topics covered
+- Differentiability and first principles
+- Differentiation rules
+- Power rule
+- Product rule
+- Quotient rule
+- Chain rule
+- Exponential and logarithmic derivatives
+- Trigonometric derivatives
+- Higher-order derivatives
+- Differentiability vs continuity
+
+## Day 15 – Mathematics: Continuity
+
+### Topics covered
+- Left-hand and right-hand limits
+- Continuity at a point
+- Piecewise function continuity
+- Types of discontinuity
+- Differentiability implies continuity
+- GATE-level continuity problems
+
+## Machine Learning – Foundations
+
+- Introduction to Machine Learning
+- AI vs ML vs Deep Learning
+- Supervised, Unsupervised and Reinforcement Learning
+- Regression vs Classification
+- Training and testing datasets
+- Overfitting and underfitting
+- Regularization
+- Cross-validation
+
+## Python – Time Complexity
+
+- Introduction to Big-O notation
+- O(1), O(log n), O(n), O(n log n), O(n²)
+- Nested loops
+- Consecutive loops
+- Python list operations
+- Dictionary and set complexities
+- Average-case vs worst-case complexity
+
+## DSA – Arrays and Strings
+
+### Problems practised
+1. Find the largest element.
+2. Find the second-largest distinct element.
+3. Reverse an array using two pointers.
+4. Check whether a string is a palindrome.
+5. Count character frequencies using dictionaries.
+6. Find the first non-repeating character.
+7. Remove duplicates while preserving order.
+8. Find the missing number.
+9. Find pairs with a target sum.
+
+### Techniques learned
+- Two-pointer technique
+- Hashing using dictionaries and sets
+- Frequency counting
+- In-place array operations
+- Algorithm optimization
+
+## Complexity Analysis
+
+| Problem | Time Complexity |
+|---|---|
+| Array traversal | O(n) |
+| Two-pointer reversal | O(n) |
+| Character frequency counting | O(n) average |
+| First non-repeating character | O(n) average |
+| Naive duplicate removal | O(n²) |
+| Set-based duplicate removal | O(n) average |
+| Nested loops | O(n²) |
+
+## Learning Assessment
+
+- Continuity Level 1: 6/10
+- Continuity Level 2: 4/5
+- Continuity Level 3: 9/10
+- ML and Python Complexity Level 1: 7/10
+- ML and Python Complexity Level 2: 7/10
+- Correction challenge: 3/3
+- DSA Level 1: 5/6
+- DSA Level 2: 6/6
+- DSA Level 3: 4/6
+- Final DSA correction: 2/3
+
+## Areas to Improve
+- Auxiliary space complexity
+- Worst-case hashing complexity
+- Optimizing nested-loop solutions
+- Advanced DSA problem-solving
+- Differentiability and continuity distinctions
+
+## Day 15 Status
+
+- [x] Mathematics – Continuity
+- [x] Machine Learning – Foundations
+- [x] Python – Time Complexity
+- [x] DSA – Arrays and Strings
+- [x] Practice tests and corrections
+
+**Next Goal:** Continue calculus, ML algorithms and advanced DSA practice.
+
+*Consistency, practice and improvement – every day brings me closer to my GATE DA 2027 goal.*
